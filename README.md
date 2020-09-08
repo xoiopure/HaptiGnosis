@@ -1,1 +1,1 @@
-# HaptiGnosis
+# HapticGnosis
